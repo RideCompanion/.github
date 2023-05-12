@@ -1,3 +1,5 @@
+[![Deploy to Develop](https://github.com/RideCompanion/RideCompanion/actions/workflows/publishDevelop.yml/badge.svg?branch=develop)](https://github.com/RideCompanion/RideCompanion/actions/workflows/publishDevelop.yml)
+
 # RideCompanion
 
 **RideCompanion** – это программное обеспечение **с открытым исходным кодом**, предназначенное для предоставления пользователям удобного инструмента поиска попутки и попутчика для совместной междугородней поездки. Этот сервис также поддерживает **аутентификацию**, чтобы гарантировать безопасность пользователей, а также дополнительные функции, такие как **уведомления** о изменениях в поездке и настраиваемые **фильтры** поиска пассажиров и водителей.
